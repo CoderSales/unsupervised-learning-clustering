@@ -12,7 +12,8 @@
 6. pip install jupyter
 7. sh installer.sh
 8. python.exe -m pip install --upgrade pip
-9. pip install notebook  
+9. pip install notebook
+10. pip install pandas  
 ### Analysis:
 
 1. notebooks/K-Means.ipynb
