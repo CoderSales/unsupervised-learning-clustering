@@ -7,7 +7,8 @@
 2. `scritp3.sh` - activates virtual environment
 3. `.bashrc` - for virtual environment
     - in .venv folder
-
+4. Python Select Interpreter
+4. pip install ipykernel
 ### Analysis:
 
 1. notebooks/K-Means.ipynb

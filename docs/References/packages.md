@@ -1,0 +1,1 @@
+- `pip install ipykernel` [ipykernel 6.22.0 | PyPI (pypi)](https://pypi.org/project/ipykernel/)
