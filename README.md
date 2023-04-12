@@ -17,6 +17,7 @@
 11. python -m pip install -U pip
 12. python -m pip install -U matplotlib
 13. pip install seaborn
+14. pip install -U scikit-learn
 
 
 ### Analysis:
