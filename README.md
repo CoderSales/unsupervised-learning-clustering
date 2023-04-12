@@ -1,6 +1,6 @@
 # unsupervised-learning-clustering
 
-## Key stuff in this repository:
+## Key elements in this repository:
 
 ### Setup:
 1. References
