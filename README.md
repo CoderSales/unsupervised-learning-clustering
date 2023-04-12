@@ -16,7 +16,9 @@
 10. pip install pandas 
 11. python -m pip install -U pip
 12. python -m pip install -U matplotlib
- 
+13. pip install seaborn
+
+
 ### Analysis:
 
 1. notebooks/K-Means.ipynb

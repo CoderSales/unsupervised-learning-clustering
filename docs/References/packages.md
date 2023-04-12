@@ -13,3 +13,4 @@ python -m pip install -U matplotlib
 
 [matplotlib](https://matplotlib.org/stable/users/installing/index.html)
 
+- `pip install seaborn` [Seaborn | Documentation | Installing and getting started](https://seaborn.pydata.org/installing.html)
