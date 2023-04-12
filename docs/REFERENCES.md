@@ -14,3 +14,4 @@ run in terminal with:
 `source script3.sh`
 
 
+- [ChatGPT3](https://chat.openai.com/chat)
