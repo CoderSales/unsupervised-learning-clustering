@@ -13,7 +13,10 @@
 7. sh installer.sh
 8. python.exe -m pip install --upgrade pip
 9. pip install notebook
-10. pip install pandas  
+10. pip install pandas 
+11. python -m pip install -U pip
+12. python -m pip install -U matplotlib
+ 
 ### Analysis:
 
 1. notebooks/K-Means.ipynb
