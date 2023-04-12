@@ -8,7 +8,11 @@
 3. `.bashrc` - for virtual environment
     - in .venv folder
 4. Python Select Interpreter
-4. pip install ipykernel
+5. pip install ipykernel
+6. pip install jupyter
+7. sh installer.sh
+8. python.exe -m pip install --upgrade pip
+9. pip install notebook  
 ### Analysis:
 
 1. notebooks/K-Means.ipynb
