@@ -15,3 +15,4 @@ python -m pip install -U matplotlib
 
 - `pip install seaborn` [Seaborn | Documentation | Installing and getting started](https://seaborn.pydata.org/installing.html)
 - `pip install -U scikit-learn` [scikit-learn () | Documentation | Installing the latest release](https://scikit-learn.org/stable/install.html#installation-instructions)
+- `pip install yellowbrick` [Yellowbrick](https://www.scikit-yb.org/en/latest/quickstart.html)
