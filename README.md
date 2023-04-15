@@ -18,7 +18,13 @@
 12. python -m pip install -U matplotlib
 13. pip install seaborn
 14. pip install -U scikit-learn
+15. pip install openpyxl
 
+### Save setup
+1. pip freeze > requirements.txt
+
+### Load setup
+1. pip install -r requirements.txt
 
 ### Analysis:
 
