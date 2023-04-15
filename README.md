@@ -4,7 +4,7 @@
 
 ### Setup:
 1. References
-2. `scritp3.sh` - activates virtual environment
+2. `script3.sh` - activates virtual environment (or `source scripy3.sh`)
 3. `.bashrc` - for virtual environment
     - in .venv folder
 4. Python Select Interpreter
