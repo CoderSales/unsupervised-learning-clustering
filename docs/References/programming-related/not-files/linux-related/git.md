@@ -24,3 +24,5 @@ Previous attempts to delete unpublished commits, reconcile histories and progres
 - `git checkout master` | `git checkout -- path/to/foo`` [How do I fix a Git detached head? | If you want to delete your changes associated with the detached HEAD](https://stackoverflow.com/questions/10228760/how-do-i-fix-a-git-detached-head)
 
  - `git branch alt-history` | `git checkout alt-history` | `git config advice.detached head false` [Git Detached Head: What This Means and How to Recover | How Do I Fix a Detached HEAD in Git? | Getting Rid of the “Git Detached HEAD” Message](https://www.cloudbees.com/blog/git-detached-head)
+ ### How to remove big file wrongly committed
+ - [git : How to remove a big file wrongly committed](https://thomas-cokelaer.info/blog/2018/02/git-how-to-remove-a-big-file-wrongly-committed/)
