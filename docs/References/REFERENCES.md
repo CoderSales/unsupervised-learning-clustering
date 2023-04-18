@@ -15,3 +15,4 @@ run in terminal with:
 
 
 - [ChatGPT3](https://chat.openai.com/chat)
+- [How to uncompress a “.tar.gz” file using Python ?](https://www.geeksforgeeks.org/how-to-uncompress-a-tar-gz-file-using-python/)
