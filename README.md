@@ -43,3 +43,7 @@
     ##### 1.1.2 large data from tarball
     data/gene_data/TCGA-PANCAN-HiSeq-801x20531/TCGA-PANCAN-HiSeq-801x20531/data.csv
     data/gene_data/TCGA-PANCAN-HiSeq-801x20531/TCGA-PANCAN-HiSeq-801x20531/labels.csv
+
+### Note on data files and Large Data sets on GitHub:
+Add data in own commit
+in case of 50 MB GitHub warning
