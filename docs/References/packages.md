@@ -17,3 +17,5 @@ python -m pip install -U matplotlib
 - `pip install -U scikit-learn` [scikit-learn () | Documentation | Installing the latest release](https://scikit-learn.org/stable/install.html#installation-instructions)
 - `pip install yellowbrick` [Yellowbrick](https://www.scikit-yb.org/en/latest/quickstart.html)
 - `pip install openpyxl` [openpyxl 3.1.2 | installation | documentation | pypi ](https://pypi.org/project/openpyxl/)
+- `pip install nb-black` [nb-black 1.0.7](https://pypi.org/project/nb-black/)nb-black 1.0.7nb-black 1.0.7
+
