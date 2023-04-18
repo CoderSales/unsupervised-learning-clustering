@@ -20,3 +20,5 @@ Previous attempts to delete unpublished commits, reconcile histories and progres
 - `git config pull.rebase false` [Solved "fatal: Need to specify how to reconcile divergent branches"](https://www.cyberithub.com/solved-fatal-need-to-specify-how-to-reconcile-divergent-branches/)
 
 - `git push -u origin head` [fatal: The current branch master has no upstream branch](https://stackoverflow.com/questions/23401652/fatal-the-current-branch-master-has-no-upstream-branch)
+
+- `git checkout master` | `git checkout -- path/to/foo`` [How do I fix a Git detached head? | If you want to delete your changes associated with the detached HEAD](https://stackoverflow.com/questions/10228760/how-do-i-fix-a-git-detached-head)
