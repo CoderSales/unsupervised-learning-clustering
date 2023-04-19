@@ -21,6 +21,7 @@
 15. pip install openpyxl
 16. pip install nb-black
 17. pip install xlwings
+18. xlwings addin install
 ### Save setup
 1. pip freeze > requirements.txt
 
