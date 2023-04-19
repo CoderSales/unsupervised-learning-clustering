@@ -20,6 +20,7 @@
 14. pip install -U scikit-learn
 15. pip install openpyxl
 16. pip install nb-black
+17. pip install xlwings
 ### Save setup
 1. pip freeze > requirements.txt
 
