@@ -18,4 +18,4 @@ python -m pip install -U matplotlib
 - `pip install yellowbrick` [Yellowbrick](https://www.scikit-yb.org/en/latest/quickstart.html)
 - `pip install openpyxl` [openpyxl 3.1.2 | installation | documentation | pypi ](https://pypi.org/project/openpyxl/)
 - `pip install nb-black` [nb-black 1.0.7](https://pypi.org/project/nb-black/)nb-black 1.0.7nb-black 1.0.7
-- `pip install xlwings` | `xlwings addin install` [xlwings Python package](https://docs.xlwings.org/en/stable/installation.html)
+- `pip install xlwings` | `xlwings addin install` | `pip install "xlwings[all]"` [xlwings Python package](https://docs.xlwings.org/en/stable/installation.html)
