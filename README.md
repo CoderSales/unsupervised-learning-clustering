@@ -22,6 +22,7 @@
 16. pip install nb-black
 17. pip install xlwings
 18. xlwings addin install
+19. pip install natsort
 ### Save setup
 1. pip freeze > requirements.txt
 
