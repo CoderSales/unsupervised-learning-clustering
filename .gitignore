@@ -139,3 +139,4 @@ data/gene_data/TCGA-PANCAN-HiSeq-801x20531/TCGA-PANCAN-HiSeq-801x20531/labels.cs
 
 # 1.2 Excel files (not committed already)
 */*.xlsx
+!*/ProcessedData.xlsx

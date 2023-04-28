@@ -50,3 +50,15 @@
 ### Note on data files and Large Data sets on GitHub:
 Add data in own commit
 in case of 50 MB GitHub warning
+
+### update to .gitignore:
+```
+*.json
+!spec/*.json
+```
+
+adapted to:
+
+`!*/ProcessedData.xlsx`
+
+[git ignore all files of a certain type, except those in a specific subfolder](https://stackoverflow.com/questions/4621072/git-ignore-all-files-of-a-certain-type-except-those-in-a-specific-subfolder)
