@@ -20,7 +20,7 @@ defusedxml==0.7.1
 et-xmlfile==2.0.0
 executing==2.2.1
 fastjsonschema==2.16.3
-fonttools==4.60.2
+fonttools==4.63.0
 fqdn==1.5.1
 idna==3.18
 importlib-metadata==9.0.0
